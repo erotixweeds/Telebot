@@ -1,0 +1,4 @@
+[phases.setup]
+aptPackages = [
+    "google-chrome-stable"
+]
